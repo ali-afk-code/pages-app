@@ -25,7 +25,7 @@ SECRET_KEY = 'xx#aun0d(m3)8y4z0hw83)5#m!mzx-qk6tos=fwc^@gz(#nbad'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['salty-hamlet-67374.herokuapp.com','*']
 
 
 # Application definition
